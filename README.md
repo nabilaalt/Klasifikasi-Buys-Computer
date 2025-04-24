@@ -1,4 +1,3 @@
-```markdown
 # Klasifikasi UTS - Praktikum Machine Learning
 
 Notebook ini berisi tahapan klasifikasi dataset menggunakan model *Naive Bayes*, dimulai dari preprocessing data hingga evaluasi performa model.
